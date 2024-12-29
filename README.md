@@ -1,3 +1,4 @@
 # HTML-My-Portofolio
 
---- masih kosong
+-ini adalah hasil codingan my portofolio dengan frmework Bootstrap
+
